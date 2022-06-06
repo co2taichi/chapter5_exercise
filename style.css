@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    width: 100%;
+    padding: 20px 0;
+    margin: 0 auto;
+    text-align: center;
+}
+
+nav{
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    /* border-color: black; */
+}
+
+.nav-list {
+    text-align: center;
+    padding: 15px 0;
+    margin: 0 auto;
+}
+
+.nav-list-item{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.main {
+    width: 100%;
+    height: 700px;
+    margin: 0;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.main-visual{
+    width: 800px;
+    height: 600px;
+    margin: 0 auto;
+}
+
+.main-top-visual{
+    width: 800px;
+    height: 200px;
+    display: flex;
+}
+
+.main-top-visual-1{
+    width: 200px;
+    height: 200px;
+    background-color: #e6ffe9;
+}
+
+.main-top-visual-2{
+    width: 200px;
+    height: 200px;
+    background-color: #cbffd3;
+}
+.main-top-visual-3{
+    width: 200px;
+    height: 200px;
+    background-color: #aeffbd;
+}
+.main-top-visual-4{
+    width: 200px;
+    height: 200px;
+    background-color: #93ffab;
+}
+
+.main-center-visual{
+    width: 800px;
+    height: 200px;
+    display: flex;
+}
+
+.main-center-visual-1{
+    width: 200px;
+    height: 200px;
+    background-color: #f3ffd8;
+}
+
+.main-center-visual-2{
+    width: 200px;
+    height: 200px;
+    background-color: #edffbe;
+}
+.main-center-visual-3{
+    width: 200px;
+    height: 200px;
+    background-color: #e9ffa5;
+}
+.main-center-visual-4{
+    width: 200px;
+    height: 200px;
+    background-color: #e4ff8d;
+}
+
+
+.main-bottom-visual{
+    width: 800px;
+    height: 200px;
+    display: flex;
+}
+
+.main-bottom-visual-1{
+    width: 800px;
+    height: 200px;
+    background-color: #d9e5ff;
+}
+
+.main-bottom-visual-2{
+    width: 800px;
+    height: 200px;
+    background-color: #bad3ff;
+}
+.main-bottom-visual-3{
+    width: 800px;
+    height: 200px;
+    background-color: #a4c6ff;
+}
+.main-bottom-visual-4{
+    width: 800px;
+    height: 200px;
+    background-color: #8eb8ff;
+}
+
+footer {
+    width: 100%;
+    height: 120px;
+    text-align: center;
+    line-height: 120px;
+    background-color: #848282;
+}
+
+.footer-text{
+    color: #fff;
+}
